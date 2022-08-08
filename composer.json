@@ -1,5 +1,6 @@
 {
-    "type": "project",
+    "name": "pyrex-fwi/symfony"
+    "type": "template",
     "license": "proprietary",
     "require": {
         "php": ">=7.0.8",
