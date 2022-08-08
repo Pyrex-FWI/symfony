@@ -1,5 +1,5 @@
 {
-    "name": "pyrex-fwi/symfony",
+    "name": "pyrex-fwi/symfony-template",
     "type": "template",
     "license": "proprietary",
     "require": {
